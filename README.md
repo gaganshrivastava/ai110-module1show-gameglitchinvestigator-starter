@@ -1,4 +1,5 @@
-# 🎮 Game Glitch Investigator: The Impossible Guesser
+# 🎮 Game Glitch Investigator: The Impossible  > https://ninjanumber.streamlit.app/
+
 
 ## 🚨 The Situation
 
